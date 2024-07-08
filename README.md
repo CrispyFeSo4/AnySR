@@ -1,6 +1,8 @@
 # AnySR
 Code release for "AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource" 
 
+Paper: [AnySR: Realizing Image Super-Resolution as Any-Scale, Any-Resource](https://arxiv.org/abs/2407.04241)
+
 Our code is based on Ubuntu 18.04, pytorch 1.10.2, CUDA 11.3 and python 3.9.
 
 ## Environment
@@ -54,11 +56,11 @@ Our code is based on Ubuntu 18.04, pytorch 1.10.2, CUDA 11.3 and python 3.9.
 ## Checkpoints
 
 #### To train AnySR:
-[srno_edsr_baseline_epoch_1000.pth](https://drive.google.com/file/d/1I2_LbrTjOItL_roYiggh8qXe0JVtpbQd/view?usp=drive_link)
+[srno_edsr_baseline_epoch_1000.pth](https://drive.google.com/file/d/1I2_LbrTjOItL_roYiggh8qXe0JVtpbQd/view?usp=sharing)
 
-[srno_rdn_baseline_epoch_1000.pth](https://drive.google.com/file/d/1ZljcTorsjU4lzGoh_FIGRWP60lq4Uz-0/view?usp=drive_link)
+[srno_rdn_baseline_epoch_1000.pth](https://drive.google.com/file/d/1ZljcTorsjU4lzGoh_FIGRWP60lq4Uz-0/view?usp=sharing)
 
 #### To test AnySR：
-[anysr_edsr_500.pth](https://drive.google.com/file/d/12QJ_fIpz0E2J_iEGTscFRG6N4JHNO-Ag/view?usp=drive_link)
+[anysr_edsr_500.pth](https://drive.google.com/file/d/12QJ_fIpz0E2J_iEGTscFRG6N4JHNO-Ag/view?usp=sharing)
 
-[anysr_rdn_500.pth](https://drive.google.com/file/d/10PPZIab_DP80cqFFyzD5o27Oec0Oo3m4/view?usp=drive_link)
+[anysr_rdn_500.pth](https://drive.google.com/file/d/10PPZIab_DP80cqFFyzD5o27Oec0Oo3m4/view?usp=sharing)
